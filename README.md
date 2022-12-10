@@ -1,10 +1,12 @@
 <h1 align="center">media designer moving into web development</h1>
 
+
 - 🔭 I’m currently working on **becoming a full stack web developer**
 
 - 🌱 I’m currently learning **JavaScript, React, Next.js, TypeScript, Node.js, JSON**
 
 - 📫 How to reach me **contact@cl3.eu**
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=clemens1337&label=Profile%20views&color=afdafa&style=flat" alt="clemens1337" /> </p>
 
