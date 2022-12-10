@@ -1,4 +1,5 @@
-<h3 align="center">media designer moving into web development</h3>
+<h3 align="center">Hi, I'm Clemens</h2>
+<h3 align="center">a media designer moving into web development</h3>
 </br>
 
 - 🔭 I’m currently working on **becoming a full stack web developer**
