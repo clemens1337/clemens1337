@@ -1,4 +1,4 @@
-<h1 align="center">media designer moving into web development</h1>
+<h2 align="center">media designer moving into web development</h2>
 
 
 - 🔭 I’m currently working on **becoming a full stack web developer**
