@@ -9,7 +9,7 @@
 - 📫 How to reach me **contact@cl3.eu**
 </br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=clemens1337&label=Profile%20views&color=afdafa&style=for-the-badge" alt="clemens1337" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=clemens1337&label=Profile%20views&color=grey&style=for-the-badge" alt="clemens1337" /> </p>
 
 
 
